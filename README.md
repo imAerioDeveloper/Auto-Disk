@@ -15,4 +15,4 @@
 在您的服务器终端中，复制并执行以下命令即可：
 
 ```bash
-wget -O auto.sh https://raw.githubusercontent.com/imAerioDeveloper/auto-disk/refs/heads/main/auto.sh && bash auto.sh
+wget -O auto.sh https://raw.githubusercontent.com/imAerioDeveloper/Auto-Disk/refs/heads/main/auto.sh && bash auto.sh
